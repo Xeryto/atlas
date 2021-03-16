@@ -16,19 +16,23 @@ require_once 'navbar.html';
 <div class="container">
     <div class="paginator">
         <div class="row problem">
-            <div class="col-md-4">
-                <img src="images/skotnikova.jfif">
+            <div class="col-md-3">
+                <div class="box2">
+                    <img src="images/skotnikova.jfif">
+                </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-9">
                 <p></p>
             </div>
         </div>
         <div class="row problem">
-            <div class="col-md-8">
+            <div class="col-md-9">
                 <p></p>
             </div>
-            <div class="col-md-4">
-                <img src="images/pictureofme.jpg">
+            <div class="col-md-3">
+                <div class="box2">
+                    <img src="images/pictureofme.jpg">
+                </div>
             </div>
         </div>
         <div class="row problem">
