@@ -52,6 +52,7 @@
             <div><a class="shine-button hidden">Показать главную картинку</a></div>
         </div>
     </div>
+    <div style="padding-bottom: 4rem;"></div>
 </div>
 <?php
     require_once 'footer.html';
