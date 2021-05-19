@@ -152,12 +152,12 @@ require_once 'navbar.html';
                 <div class="box">
                     <img src="images/olha2.jpg">
                 </div>
-            </div>
+            </div>2
         </div>
         <div class="row problem">
             <div class="col-md-2">
                 <div class="box">
-                    <img src="images/buzina">
+                    <img src="images/buzina2.jpg">
                 </div>
             </div>
             <div class="col-md-10">
